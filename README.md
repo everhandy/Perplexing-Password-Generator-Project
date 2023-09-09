@@ -10,7 +10,7 @@ https://everhandy.github.io/Perplexing-Password-Generator-Project/
 
 ## Link to screenshot:
 
-
+https://github.com/everhandy/Perplexing-Password-Generator-Project/blob/main/Assets/JavaScript-Project-IMG.png
 
 ## Installation:
 
