@@ -6,7 +6,7 @@ This project represents and assignment where I was tasked with creating an appli
 
 ## Link to application:
 
-
+https://everhandy.github.io/Perplexing-Password-Generator-Project/
 
 ## Link to screenshot:
 
